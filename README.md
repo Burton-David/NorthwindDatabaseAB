@@ -28,9 +28,9 @@ An AB test is performed on the following hypotheses:
 | seaborn           | data visualization and EDA                                              |
 | statsmodels       | explore data, estimate statistical models, and perform statistical tests|
 
-# [Read a Blog Article I wrote about the project](https://medium.com/@trvlingteacher/hypothesis-testing-9d1fdf28e232)
+### [Read a Blog Article I wrote about the project](https://medium.com/@trvlingteacher/hypothesis-testing-9d1fdf28e232)
 
-# Extra Stuff
+### Extra Stuff
 
 
 [SQL Practice Notebook](additional_notebooks/SQLightPractice.ipynb)
