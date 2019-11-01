@@ -1,5 +1,6 @@
 
-# [The Project Begins Here](Hypothesis Test.ipynb)
+# The Project Itself
+Hypothesis Test.ipynb
 # About the Data
 This project uses the very popular Northwind Database, an SQL training database provided by Oracle for training.  The 
 Northwind database is a sample database used by Microsoft to demonstrate the features of some of its products, including
