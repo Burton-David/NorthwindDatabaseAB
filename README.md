@@ -1,6 +1,6 @@
 
 # The Project Itself
-Hypothesis Test.ipynb
+[The Hypotheis Test](Hypothesis Test.ipynb)
 # About the Data
 This project uses the very popular Northwind Database, an SQL training database provided by Oracle for training.  The 
 Northwind database is a sample database used by Microsoft to demonstrate the features of some of its products, including
@@ -31,4 +31,3 @@ An AB test is performed on the following hypotheses:
 # Extra Stuff
 
 [SQL Practice Notebook](SQLightPractice.ipynb)
-
