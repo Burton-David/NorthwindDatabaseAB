@@ -1,7 +1,7 @@
 # Hypothesis Testing Project Using the Northwind Database
-## By David Burton
+### By David Burton
 
-# [The Project Begins Here](project_notebook.ipynb)
+[The Project Begins Here](project_notebook.ipynb)
 
 # About the Data
 This project uses the very popular Northwind Database, an SQL training database provided by Oracle for training.  The 
