@@ -1,5 +1,4 @@
-
-# The Project Itself
+## The Project Itself
 
 [The Hypotheis Test](Hypothesis Test.ipynb)
 
