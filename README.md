@@ -1,5 +1,7 @@
+## The Project Itself
 
 # [The Project Begins Here](project_notebook.ipynb)
+
 # About the Data
 This project uses the very popular Northwind Database, an SQL training database provided by Oracle for training.  The 
 Northwind database is a sample database used by Microsoft to demonstrate the features of some of its products, including
@@ -28,6 +30,7 @@ An AB test is performed on the following hypotheses:
 # [Read a Blog Article I wrote about the project](https://medium.com/@trvlingteacher/hypothesis-testing-9d1fdf28e232)
 
 # Extra Stuff
+
 
 [SQL Practice Notebook](additional_notebooks/SQLightPractice.ipynb)
 
