@@ -1,4 +1,5 @@
-## The Project Itself
+# Hypothesis Testing Project Using the Northwind Database
+## By David Burton
 
 # [The Project Begins Here](project_notebook.ipynb)
 
