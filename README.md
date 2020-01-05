@@ -35,3 +35,6 @@ An AB test is performed on the following hypotheses:
 
 [SQL Practice Notebook](additional_notebooks/SQLightPractice.ipynb)
 
+## Another Article that References this Project
+[How to Share Your Data Science Project in less than 2 minutes](https://medium.com/@trvlingteacher/how-to-share-your-data-science-project-4968b7cabaa1)
+
