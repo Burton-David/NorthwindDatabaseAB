@@ -4,8 +4,7 @@
 [The Project Begins Here](project_notebook.ipynb)
 
 # About the Data
-This project uses the very popular Northwind Database, an SQL training database provided by Oracle for training.  The 
-Northwind database is a sample database used by Microsoft to demonstrate the features of some of its products, including
+This project uses the Northwind database, a sample database Microsoft ships to demonstrate
 SQL Server and Microsoft Access. The database contains the sales data for Northwind Traders, a fictitious specialty 
 foods export/import company.
 <img src='Northwind_ERD.png'>
