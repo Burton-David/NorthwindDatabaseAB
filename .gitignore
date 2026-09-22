@@ -3,3 +3,6 @@
 __pycache__
 *.db
 *.pytest_cache
+
+.idea/
+.ipynb_checkpoints/
